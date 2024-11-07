@@ -1,0 +1,11 @@
+this is the youtube data api link:
+https://www.googleapis.com/youtube/v3/search?part=snippet&q=react&type=playlist&maxResults=10&key=AIzaSyAER_WNaquXD_zb5ye0H7qU9oZPjBS8pbM
+
+this is the next page format: nextpagetoken is available in currentpage
+https://www.googleapis.com/youtube/v3/search?part=snippet&q=react&type=playlist&maxResults=10&pageToken=YOUR_NEXT_PAGE_TOKEN&key=AIzaSyAER_WNaquXD_zb5ye0H7qU9oZPjBS8pbM
+
+this used to sort results by viewcount
+GET https://www.googleapis.com/youtube/v3/search?part=snippet&q=react&type=playlist&order=viewCount&maxResults=10&key=AIzaSyAER_WNaquXD_zb5ye0H7qU9oZPjBS8pbM
+
+this is the api key (mayank)
+AIzaSyAER_WNaquXD_zb5ye0H7qU9oZPjBS8pbM

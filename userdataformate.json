@@ -1,0 +1,26 @@
+{
+    "user": {
+        "id": 2,
+        "username": "mayank",
+        "email": "mayank@gmail.com",
+        "first_name": "",
+        "last_name": ""
+    },
+    "skills": {
+        "Skill1": 25,
+        "Skill2": 25,
+        "Skill3": 10,
+        "Skill4": 45,
+        "Skill5": 25,
+        "Skill6": 40,
+        "Skill7": 10,
+        "Skill8": 14
+    },
+    "domain": "data science",
+    "experience": 0,
+    "predicted_proficiency": "beginner",
+    "predicted_job_role": "web development intern",
+    "predicted_average_score": 47.0763,
+    "image_url": null,
+    "bio": null
+}
